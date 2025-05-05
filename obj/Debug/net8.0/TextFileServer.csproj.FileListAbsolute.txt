@@ -1,0 +1,5 @@
+/Users/jennifergerred/Documents/Davenport/DataStructures/Week1/Tutorials/TextFileServer/obj/Debug/net8.0/TextFileServer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jennifergerred/Documents/Davenport/DataStructures/Week1/Tutorials/TextFileServer/obj/Debug/net8.0/TextFileServer.AssemblyInfoInputs.cache
+/Users/jennifergerred/Documents/Davenport/DataStructures/Week1/Tutorials/TextFileServer/obj/Debug/net8.0/TextFileServer.AssemblyInfo.cs
+/Users/jennifergerred/Documents/Davenport/DataStructures/Week1/Tutorials/TextFileServer/obj/Debug/net8.0/TextFileServer.csproj.CoreCompileInputs.cache
+/Users/jennifergerred/Documents/Davenport/DataStructures/Week1/Tutorials/TextFileServer/obj/Debug/net8.0/TextFileServer.MvcApplicationPartsAssemblyInfo.cache
