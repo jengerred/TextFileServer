@@ -9,6 +9,8 @@ using Microsoft.Extensions.Hosting;
 
 var builder = WebApplication.CreateBuilder(args);
 
+builder.WebHost.UseUrls("http://localhost:7777");
+
 // Add CORS services
 builder.Services.AddCors(options =>
 {

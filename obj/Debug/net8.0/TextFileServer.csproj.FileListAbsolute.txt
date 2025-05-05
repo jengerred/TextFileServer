@@ -26,3 +26,4 @@
 /Users/jennifergerred/Documents/Davenport/DataStructures/Week1/Tutorials/TextFileServer/obj/Debug/net8.0/TextFileServer.pdb
 /Users/jennifergerred/Documents/Davenport/DataStructures/Week1/Tutorials/TextFileServer/obj/Debug/net8.0/TextFileServer.genruntimeconfig.cache
 /Users/jennifergerred/Documents/Davenport/DataStructures/Week1/Tutorials/TextFileServer/obj/Debug/net8.0/ref/TextFileServer.dll
+/Users/jennifergerred/Documents/Davenport/DataStructures/Week1/Tutorials/TextFileServer/obj/Debug/net8.0/TextFileServer.sourcelink.json
