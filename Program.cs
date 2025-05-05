@@ -90,11 +90,9 @@ if (!File.Exists(filePath))
     try 
     {
         Console.WriteLine($"Using file path: {fileToUse}");
-        string fileContent = await File.ReadAllTextAsync(filePath);
-        
+        string fileContent = await File.ReadAllTextAsync(fileToUse);
         Console.WriteLine($"Read content length: {fileContent.Length} characters");
-
-        return Results.Ok(fileContent);
+        return Results.Text(fileContent);
     }
     catch (Exception ex)
     {
