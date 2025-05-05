@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "ghqFjZjUYTER5cM55/h30IIiCePTXu9qMBWpf1qs+iPKZKJJ79oaom/+b6T+LXHpsJl6jsI8+HXcL6/CPhkBRA==",
+  "dgSpecHash": "Yi7YOkMOfvAXqxK/y6cC8HxaxYAdMJ2WQzGVZ5W8P/Q8a5Yz4mZreY2x9lL+EGUnE3i36pv80af6/+YxFloxnw==",
   "success": true,
   "projectFilePath": "/Users/jennifergerred/Documents/Davenport/DataStructures/Week1/Tutorials/TextFileServer/TextFileServer.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/jennifergerred/.nuget/packages/microsoft.aspnetcore.openapi/8.0.0/microsoft.aspnetcore.openapi.8.0.0.nupkg.sha512",
+    "/Users/jennifergerred/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512"
+  ],
   "logs": []
 }

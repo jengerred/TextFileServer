@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/TextFileServer.props" />
+</Project>
