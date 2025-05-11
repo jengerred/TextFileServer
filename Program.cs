@@ -9,7 +9,7 @@ using Microsoft.Extensions.Hosting;
 
 var builder = WebApplication.CreateBuilder(args);
 
-builder.WebHost.UseUrls("http://localhost:7777");
+// builder.WebHost.UseUrls("http://localhost:7777"); // Commented out for Cloud Run compatibility
 
 // Add CORS services
 builder.Services.AddCors(options =>
