@@ -9,6 +9,11 @@ using Microsoft.Extensions.Hosting;
 
 var builder = WebApplication.CreateBuilder(args);
 
+// Add this section:
+var port = Environment.GetEnvironmentVariable("PORT") ?? "8080"; // Fallback to 8080 if PORT not set
+builder.WebHost.UseUrls($"http://*:{port}"); 
+// The "*" means listen on all available network interfaces within the container, on the specified port.
+
 // builder.WebHost.UseUrls("http://localhost:7777"); // Commented out for Cloud Run compatibility
 
 // Add CORS services
